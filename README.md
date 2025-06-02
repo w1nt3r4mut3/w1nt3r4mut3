@@ -1,5 +1,3 @@
-![snk](https://github.com/w1nt3r4mut3/w1nt3r4mut3/blob/main/output/github-contribution-grid-snake.svg) 
-
 # Hello, I'm w1nt3r4mut3 
 
 🚀 **Developer | Cybersecurity Enthusiast**  
@@ -36,19 +34,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1nt3r4mut3&layout=compact&theme=radical)](https://github.com/w1nt3r4mut3)  
 
 ## ⏳ **WakaTime Stats**  
-[![wakatime](https://wakatime.com/badge/user/w1nt3r4mut3.svg)](https://wakatime.com/@wint3r4mut3)
+[![wakatime](https://wakatime.com/badge/user/W1nt3r4Mut3.svg)](https://wakatime.com/@W1nt3r4Mut3)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=w1nt3r4mut3&theme=dark&layout=compact)](https://wakatime.com/@w1nt3r4mut3) 
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=W1nt3r4Mut3&theme=dark&layout=compact)](https://wakatime.com/@W1nt3r4Mut3) 
 
 ## Codewars and LeetCode
 [![codewars](https://www.codewars.com/users/W1nt3r4Mut3/badges/large)](https://www.codewars.com/users/W1nt3r4Mut3)
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/?username=w1nt3r4mut3&theme=dark)](https://leetcode.com/w1nt3r4mut3/)  
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=W1nt3r4Mut3&theme=dark)](https://leetcode.com/W1nt3r4Mut3/)  
 
 ## 📝 **Latest Blog Post**  
 🔹 Later  
 
 ## 📫 **How to Contact Me?**  
-- **Email:** calebreed@gmail.com  
+- **Email:** calebreedwk@gmail.com  
 
 
