@@ -34,12 +34,10 @@
 [![LeetCode Stats](https://leetcode.card.workers.dev/?username=W1nt3r4Mut3&theme=dark)](https://leetcode.com/W1nt3r4Mut3/)  
 
 
-## ⏳ **Weekly Coding Time**
+## ⏳ **Weekly Coding Activity**
 [![wakatime](https://wakatime.com/badge/user/w1nt3rmut3.svg)](https://wakatime.com/@w1nt3rmut3)
 
-<!-- Detailed Stats (update username) -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=w1nt3rmut3&theme=dark&layout=compact)](https://wakatime.com/@w1nt3rmut3)
-
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=w1nt3rmut3&theme=dark&hide_border=true)](https://wakatime.com/@w1nt3rmut3)
 ## 📝 **Latest Blog Post**  
 🔹 Later  
 
