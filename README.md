@@ -17,16 +17,15 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ## 🚀 **My Projects**  
 🔹 Secret for now 
 
 ## 📈 **GitHub Statistics**  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1nt3r4mut3&show_icons=true&theme=radical)](https://github.com/w1nt3r4mut3)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1nt3r4mut3&layout=compact&theme=radical)](https://github.com/w1nt3r4mut3)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w1nt3r4mut3&show_icons=true&theme=radical)](https://github.com/w1nt3r4mut3) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w1nt3r4mut3&layout=compact&theme=radical)](https://github.com/w1nt3r4mut3)  
 
 ## Codewars and LeetCode
 [![codewars](https://www.codewars.com/users/W1nt3r4Mut3/badges/large)](https://www.codewars.com/users/W1nt3r4Mut3)
@@ -35,7 +34,6 @@
 
 
 ## ⏳ **Weekly Coding Activity**
-[![wakatime](https://wakatime.com/badge/user/w1nt3rmut3.svg)](https://wakatime.com/@w1nt3rmut3)
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=w1nt3rmut3&theme=dark&hide_border=true)](https://wakatime.com/@w1nt3rmut3)
 ## 📝 **Latest Blog Post**  
